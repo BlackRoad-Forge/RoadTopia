@@ -1,3 +1,20 @@
+# RoadTopia
+
+> Pixel-art city builder for BlackRoad Pixel HQ
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — 18 orgs, 20 domains, 200 agents.
+
+Forked from [`CytopiaTeam/Cytopia`](https://github.com/CytopiaTeam/Cytopia) and enhanced for the BlackRoad sovereign stack.
+
+| | |
+|---|---|
+| **Language** | Multiple |
+| **Organization** | [BlackRoad-Forge](https://github.com/BlackRoad-Forge) |
+| **License** | See upstream |
+| **Homepage** | [blackroad.io](https://blackroad.io) |
+
+---
+
 ![Cytopia Logo](data/resources/images/app_icons/logo_big_textured.png?raw=1)
 
 [![Discord](https://img.shields.io/discord/448344322887254018.svg?logo=discord)](https://discord.gg/qwa2H3G)
